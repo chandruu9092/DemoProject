@@ -15,7 +15,12 @@ body{
   height: 50px;
   width: max-content;
 }
-
+  #nav-title{
+    color: yellow;
+    font-size: 20px;
+    margin-left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
 .menu {
   display: flex;
   margin-right: 30px;
